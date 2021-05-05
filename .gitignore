@@ -23,6 +23,7 @@ dependencies/*
 *.env
 *.env*
 .env
+.venv
 
 # IDE
 .idea/*

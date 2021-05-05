@@ -1,6 +1,6 @@
 # ☀ ACH2043 - Introdução à Teoria da Computação Exercício de Programação: Emulação de Autômato Finito Não Determinístico
 
-Este programa lê o arquivo de entrada `entrada.txt`, controi o autômato finito não determinístico e verifica as cadeias de teste. Quando aceita escreve 1 e quando recusada escreve 0 no arquivo `saida.txt`
+Este programa lê o arquivo de entrada `entrada.txt`, constroi o autômato finito não determinístico e verifica as cadeias de teste. Quando aceita escreve 1 e quando recusada escreve 0 no arquivo `saida.txt`
 
 ## Dependências
 * Python >= 3.6
